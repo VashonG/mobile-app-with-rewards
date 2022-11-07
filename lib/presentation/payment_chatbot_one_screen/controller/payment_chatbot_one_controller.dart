@@ -1,0 +1,20 @@
+import '/core/app_export.dart';
+import 'package:kaped/presentation/payment_chatbot_one_screen/models/payment_chatbot_one_model.dart';
+import 'package:kaped/widgets/custom_bottom_bar.dart';
+
+class PaymentChatbotOneController extends GetxController {
+  Rx<PaymentChatbotOneModel> paymentChatbotOneModelObj =
+      PaymentChatbotOneModel().obs;
+
+  Rx<BottomBarEnum> type = BottomBarEnum.Tabbaricons.obs;
+
+  @override
+  void onReady() {
+    super.onReady();
+  }
+
+  @override
+  void onClose() {
+    super.onClose();
+  }
+}

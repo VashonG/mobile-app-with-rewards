@@ -1,0 +1,1 @@
+class SignIn2FaceIdScanModel { }
