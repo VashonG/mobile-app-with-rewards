@@ -1,8 +1,1 @@
-<svg width="216" height="20" viewBox="0 0 216 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-<line x1="1.50696" y1="16.5765" x2="1.50696" y2="3.51623" stroke="white" stroke-width="3" stroke-linecap="round"/>
-<line x1="7.53478" y1="16.5765" x2="7.53478" y2="3.51623" stroke="white" stroke-width="3" stroke-linecap="round"/>
-<line x1="13.5626" y1="16.5765" x2="13.5626" y2="3.51623" stroke="white" stroke-width="3" stroke-linecap="round"/>
-<rect x="101.468" y="2.00927" width="16.0742" height="16.0742" rx="5" stroke="white" stroke-width="3"/>
-<line x1="213.869" y1="17.1363" x2="206.281" y2="9.76178" stroke="white" stroke-width="3" stroke-linecap="round"/>
-<line x1="213.744" y1="2.13084" x2="206.072" y2="9.54211" stroke="white" stroke-width="3" stroke-linecap="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="20" fill="none" viewBox="0 0 216 20"><line x1="1.507" x2="1.507" y1="16.576" y2="3.516" stroke="#fff" stroke-linecap="round" stroke-width="3"/><line x1="7.535" x2="7.535" y1="16.576" y2="3.516" stroke="#fff" stroke-linecap="round" stroke-width="3"/><line x1="13.563" x2="13.563" y1="16.576" y2="3.516" stroke="#fff" stroke-linecap="round" stroke-width="3"/><rect width="16.074" height="16.074" x="101.468" y="2.009" stroke="#fff" stroke-width="3" rx="5"/><line x1="213.869" x2="206.281" y1="17.136" y2="9.762" stroke="#fff" stroke-linecap="round" stroke-width="3"/><line x1="213.744" x2="206.072" y1="2.131" y2="9.542" stroke="#fff" stroke-linecap="round" stroke-width="3"/></svg>
